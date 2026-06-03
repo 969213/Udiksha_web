@@ -1,0 +1,6 @@
+{
+  "name": "✨ उदीक्षा Garment Shop ✨",
+  "description": "Premium E-Commerce Clothing Store and inventory ledger system with dynamic UPI QR generation, multi-tiered staff controls, and automatic order alert simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
